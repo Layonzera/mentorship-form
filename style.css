@@ -157,3 +157,7 @@ footer .button {
 footer .button:hover {
   background-color: #d43e5c;
 }
+
+input:invalid {
+  border: 1px solid #ff1010;
+}
